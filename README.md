@@ -9,7 +9,7 @@
  
 
 
-# Índice
+# Índice ⚜️
  
 * [Introdução](#introdução)
  
@@ -23,10 +23,10 @@
  
 * [Detalhes](#detalhes)
  
-# Introdução
+# Introdução 🛠️
 O exercício sugerido tinha como objetivo buscarmos os significados de variáveis e compreender suas utilidades. Os códigos exemplificados no arquivo "Codigo-de-exercicio (1).html" estabelecem um temporizador de 10 minutos, enquanto o outro "Codigo-de-exercicio (2).html" apresenta um sistema de verdadeiro e falso para localizar o documento. Abaixo, estarão enumeradas suas variáveis.
  
-# Varíaveis
+# Varíaveis ⚔️
  
     - Function: Indica uma função pré determinada.
  
@@ -46,19 +46,19 @@ O exercício sugerido tinha como objetivo buscarmos os significados de variávei
  
     - return: É usada em uma função para especificar o valor que a função deve fornecer de volta quando é chamada.
    
-# Tecnologias-utilizadas
+# Tecnologias-utilizadas 💻
  
     HTML5 e Github
  
-# Sites utilizados
+# Sites utilizados 📲
  
    * [Terminal root](https://terminalroot.com.br/2016/12/alguns-codigos-simples-de-javascript-2.html)
  
-# Autores
+# Autores 📑
  
     - Evellin Monteiro
  
  
 # Detalhes
  
-    Iniciada: 13/03/2024 Terminada: ?
+    Iniciada: 13/03/2024 Terminada: 15/03/2024.
